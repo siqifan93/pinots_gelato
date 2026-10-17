@@ -1,0 +1,6 @@
+event: message
+data: {"send_pixel":["https://analytics.google.com/g/s/collect?dma=0&npa=0&gcd=13l3l3l3l1l1&gtm=45h91e6ae1v9101309483z99203990758za20kzb9203949713zd9203949713xf3xg4&tag_exp=115616986~115938465~115938469~117215455~117215455~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&_is_sw=0&_tu=BA&gap.sstd=2&gap.gtb=2&gtb=2&_gsid=QZ2MPXED803wcWJ81We_FOp51z8NYjbw"],"options":{}}
+
+event: message
+data: {"response":{"status_code":200,"body":""}}
+

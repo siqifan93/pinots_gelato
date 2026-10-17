@@ -1,0 +1,18 @@
+event: message
+data: {"send_pixel":["https://googleads.g.doubleclick.net/pagead/viewthroughconversion/767568133/?random=1504671465&fst=1792269615179&cv=10&fmt=3&bg=ffffff&guid=ON&u_w=800&u_h=600&gtm=45h91e6ae1v9101309483z99203990758za20szb9203949713zd9203949713xf3xg4&url=https%3A%2F%2Fframer.com%2Flogin%2F%3Forigin%3Dframer-web%26redirect%3Dhttps%253A%252F%252Fframer.com%252Fprojects%252FHolistic-Jupiter--MhNiwfWppZRYpWVmBwGK-aiP6f%253Fnode%253DaugiA20Il&tiba=Login%20%E2%80%93%20Framer&data=event%3Dpage_view%3Bfirst_level_subpath%3Dlogin%3Bcontent_group%3Dlogin%3Bvisitor_id%3D17922696143670.9237702689300663%3Bexternal_id%3D17922696143670.9237702689300663&auid=1450046386.1792269615&uaa=x86&uab=64&uafvl=Not%252FA)Brand%3B99.0.0.0%7CChromium%3B148.0.7778.97&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&rcb=14&dma=0&npa=0&gcd=13l3l3l3l1l1&pscdl=noapi&_is_sw=0&tag_exp=100940061~115616986~115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&_tu=BA&gap.sstd=2&gap.gtb=2&gtb=2"],"options":{}}
+
+event: message
+data: {"fetch":["https://www.google.com/rmkt/collect/767568133/?random=1504671465&fst=1792269615179&cv=10&fmt=8&bg=ffffff&guid=ON&u_w=800&u_h=600&gtm=45h91e6ae1v9101309483z99203990758za20szb9203949713zd9203949713xf3xg4&url=https%3A%2F%2Fframer.com%2Flogin%2F%3Forigin%3Dframer-web%26redirect%3Dhttps%253A%252F%252Fframer.com%252Fprojects%252FHolistic-Jupiter--MhNiwfWppZRYpWVmBwGK-aiP6f%253Fnode%253DaugiA20Il&tiba=Login%20%E2%80%93%20Framer&data=event%3Dpage_view%3Bfirst_level_subpath%3Dlogin%3Bcontent_group%3Dlogin%3Bvisitor_id%3D17922696143670.9237702689300663%3Bexternal_id%3D17922696143670.9237702689300663&auid=1450046386.1792269615&uaa=x86&uab=64&uafvl=Not%252FA)Brand%3B99.0.0.0%7CChromium%3B148.0.7778.97&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&rcb=14&dma=0&npa=0&gcd=13l3l3l3l1l1&pscdl=noapi&_is_sw=0&tag_exp=100940061~115616986~115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&_tu=BA&gap.sstd=2&gap.gtb=2&gtb=2&gcp=5"],"options":{}}
+
+event: message
+data: {"send_pixel":["${transport_url}/_/set_cookie?val=pee5nK93JzOD829QgwTtnitbmbyGxyWRUPFJIhWkxRUAjt1lLAtFGZKblc5kh1DV035o%2F3pcl%2FMlUDQz2bSGi6tHNFeo8WKZ5qPN%2B6mBeaC4NwIg8MeJEQflYKb82LJyl8epRxq6FhsxbEni81pd8FW8gQH3ItbKGgSDtaF6rpOKJfqwyMtrvs8CTLAyLDYIxIPgKtz4bYlOY%2FALCbcEOA2EA2Pq%2BHW%2FzkqEEFMi&path=${encoded_path}"]}
+
+event: message
+data: {"send_pixel":["https://analytics.google.com/g/s/collect?dma=0&npa=0&gcd=13l3l3l3l1l1&gtm=45h91e6ae1v9101309483z99203990758za20szb9203949713zd9203949713xf3xg4&tag_exp=100940061~100940061~115616986~115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&_is_sw=0&_tu=BA&gap.sstd=2&gap.gtb=2&gtb=2&_gsid=QZ2MPXED80iXp5B5vopyEAT86h9SGxXg"],"options":{}}
+
+event: message
+data: {"send_pixel":["https://stats.g.doubleclick.net/g/collect?v=2&dma=0&npa=0&gcd=13l3l3l3l1l1&tid=G-QZ2MPXED80&cid=EGUsa3ayEpHsVGNMt2UJSZhnqX0nrKQhgg0pEWPKY1c%3D.1792269615&gtm=45h91e6ae1v9101309483z99203990758za20szb9203949713zd9203949713xf3xg4&tag_exp=100940061~100940061~115616986~115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&_is_sw=0&_tu=BA&gap.sstd=2&gap.gtb=2&gtb=2&aip=1"],"options":{}}
+
+event: message
+data: {"response":{"status_code":200,"body":""}}
+

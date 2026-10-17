@@ -1,0 +1,55 @@
+[20:40:10] [info] Source   : [4mhttps://framer.com/projects/Holistic-Jupiter--MhNiwfWppZRYpWVmBwGK-aiP6f?node=augiA20Il[24m
+[20:40:10] [info] Output   : [38;2;250;178;131m/Users/johnnyfan/framer-framer-com-swift-bundle-yyvf[39m
+[20:40:10] [info] Platform : [38;2;250;178;131mFramer[39m
+[20:40:10] [info] DPR      : [38;2;250;178;131m1[39m
+[20:40:10] [info] Subpages : [38;2;127;216;143menabled[39m
+[20:40:10] [log] Output directory structure created
+[20:40:10] [log] Fetching SSR HTML from https://framer.com/projects/Holistic-Jupiter--MhNiwfWppZRYpWVmBwGK-aiP6f?node=augiA20Il
+[20:40:11] [ok] SSR HTML fetched (13.0 KB)
+[20:40:11] [log] Launching headless Chromium...
+[20:40:13] [ok] Chromium launched
+[20:40:13] [log] Stealth hardening applied (Chrome 148.0.7778.97)
+[20:40:13] [log] Viewport set to 1440x900 at 1x DPR
+[20:40:13] [log] Blocking 8 tracking domains:
+[20:40:13] [log]   - sentry.io
+[20:40:13] [log]   - www.googletagmanager.com
+[20:40:13] [log]   - connect.facebook.net
+[20:40:13] [log]   - stats.g.doubleclick.net
+[20:40:13] [log]   - google-analytics.com
+[20:40:13] [log]   - events.framer.com
+[20:40:13] [log]   - api.framer.com
+[20:40:13] [log]   - collect.frameranalytics.com
+[20:40:13] [log] Network interception enabled
+[20:40:13] [info] Navigating to https://framer.com/projects/Holistic-Jupiter--MhNiwfWppZRYpWVmBwGK-aiP6f?node=augiA20Il
+[20:40:14] [ok] Document loaded; waiting for page content and resources
+[20:40:14] [log] Intercepted 91 resources, blocked 0 tracking requests, skipped 0 platform assets
+[20:40:14] [log] Checking DOM-based platform detection...
+[20:40:14] [log] Hydration content found: #main
+[20:40:25] [log] Network idle timeout reached (continuing anyway)
+[20:40:25] [log] Waiting for font layout and response bodies
+[20:40:25] [log] Resources settled
+[20:40:25] [log] Captured HTML and CSSOM (13.0 KB)
+[20:40:25] [ok] Captured 108 network resources total
+[20:40:25] [log]   CSS: 1 | JS: 96 | Images: 2 | Fonts: 1
+[20:40:25] [log] Scanning page for internal links...
+[20:40:25] [log] Found 0 sub-page links on the home page
+[20:40:25] [log] No sub-pages to crawl
+[20:40:25] [log] Browser closed
+[20:40:25] [ok] Queued 3 resource(s) declared in HTML but never requested
+[20:40:25] [log] Starting download of 111 assets and their CSS/HTML dependencies
+[20:40:26] [ok] Downloads complete: 250 succeeded, 108 from cache
+[20:40:26] [log] Starting HTML post-processing...
+[20:40:26] [log] HTML size: 13.0 KB
+[20:40:26] [ok] Index HTML pipeline complete
+[20:40:27] [log] Rewrote URLs in 60 JS/CSS files
+[20:40:27] [log] Rewrote resources in 1 embedded HTML documents
+[20:40:27] [warn] Rewrite pattern matched nothing: /https:\/\/(?:www\.)?framer\.com\/edit\/init\.mjs/g
+[20:40:27] [warn] Rewrite pattern matched nothing: /\(function\(\)\{[\w$]+&&[\w$]+\(\(\)=>\{[\s\S]{0,200}?__framer-badge-container[\s\S]{0,300}?\}\)\}\)\(\)/g
+[20:40:27] [ok] Captured asset URLs rewritten to local paths
+[20:40:29] [ok] Formatted 96/96 JS/MJS files
+[20:40:29] [log] Writing index.html (34.2 KB)...
+[20:40:29] [ok] index.html written
+[20:40:29] [log] serve.js written
+[20:40:29] [log] package.json written for serve.js
+[20:40:29] [ok] Output build complete
+[20:40:29] [ok] Export complete!

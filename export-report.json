@@ -1,0 +1,13 @@
+{
+  "source": "https://framer.com/login/?origin=framer-web&redirect=https%3A%2F%2Fframer.com%2Fprojects%2FHolistic-Jupiter--MhNiwfWppZRYpWVmBwGK-aiP6f%3Fnode%3DaugiA20Il",
+  "platform": "framer",
+  "captureMode": "html-with-runtime",
+  "generatedAt": "2026-10-17T20:40:29.821Z",
+  "assets": 250,
+  "failedAssets": [],
+  "subpages": 0,
+  "visualValidation": "not-run",
+  "limitations": [
+    "Server-side accounts, payments, search and form processing are not exported."
+  ]
+}
